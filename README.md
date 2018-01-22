@@ -1,4 +1,5 @@
-piWallet
+piWallet for SolarCoin
+Modified from Johnathanmartin piWallet.
 ========
 
 piWallet is a secure opensource online altcoin wallet that works with practically any altcoin. piWallet uses PHP, mySQL, JavaScript and Bootstrap. 
@@ -34,3 +35,10 @@ Planned Features:
 More Information:
 
 Created by Johnathan Martin of fitbobcat.com
+
+Steps for SolarCoin:
+1) Change your port to 18181
+2) It is a staking Coin, so you need to make sure that the steps are followed for this.
+3) Example http://i65.tinypic.com/2h2e0li.png
+
+More questions: admin@solcrypto.com
