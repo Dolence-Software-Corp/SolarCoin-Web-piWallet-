@@ -1,8 +1,10 @@
 piWallet for SolarCoin
 Modified from Johnathanmartin piWallet.
+
+========
+
 We tested it with solarcoin v 2.1.8 however it was displaying only some parts.
 We are waiting for solarcoin v 3.15.1 to be released so that we can attempt to connect to the Daemon again.
-========
 
 piWallet is a secure opensource online altcoin wallet that works with practically any altcoin. piWallet uses PHP, mySQL, JavaScript and Bootstrap. 
 
